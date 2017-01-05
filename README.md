@@ -3,4 +3,4 @@ First repository
 
 It is cool to learn new stuff
 
-Makign changes to learn tutorial
+Making changes to learn tutorial
